@@ -123,7 +123,7 @@
 |mdadm|manage MD devices aka Linux Software RAID|
 |lsblk|list block devices|
 
-### Архивы
+## Архивы
 
 |Команда    |Описание                                           |
 |-----------|---------------------------------------------------|
