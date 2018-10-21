@@ -11,7 +11,7 @@
     * [Информация о системе и системные утилиты](commands/sysinfo.md)
     * [Конфигурация системы](commands/sysconfig.md)
     * [Работа с дисками](commands/disk.md)
-    * [Архивы](commands/arhives.md)
+    * [Архивы](commands/archives.md)
     * [скриптинг](commands/scripts.md)
     * [Пакеты](commands/packages.md)
     * [Работа с файлами](commands/files.md)
