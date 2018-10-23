@@ -1,9 +1,17 @@
 # Оглавление
 
 * [Введение](README.md)
-
-* [Команды](commands/README.md)
-    * [Сводка](commands/summary.md)
+* [Лекции](lections/README.md)
+    * [Введение](lections/l1.md)
+    * [Файловые системы](lections/l2.md)
+    * [Ядро ОС Linux](lections/l3.md)
+    * [Системные вызовы](lections/l4.md)
+    * [Сетевые режимы VBox](lections/l5.md)
+    * [Введение](lections/l6.md)
+    * [Введение](lections/l7.md)
+    * [Введение](lections/l8.md)
+    * [Введение](lections/l9.md)
+* [Команды](commands/summary.md)
     * [Примитивы](commands/primitives.md)
     * [Вывод данных на экран](commands/output.md)
     * [Работа с сетью](commands/network.md)
@@ -19,3 +27,6 @@
 * [Игра](game/README.md)
     * [Уровень1](game/level1/about.md)
         * [Задание](game/level1/task.md)
+* [Лабораторные](labs/labs.md)
+    * [Примитивы](labs/primitives-task.md)
+        * [Решение1](labs/primitives-solve-1.md)
