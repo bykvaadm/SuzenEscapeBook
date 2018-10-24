@@ -1,0 +1,23 @@
+{
+    "title": "Админим с Буквой",
+    "description": "Linux lections from Bykva and co",
+    "author": "Bykva and co",
+    "plugins": [
+        "bootstrap-callout",
+        "codetabs",
+        "include",
+        "nocache",
+        "collapsible-chapters",
+        "richquotes",
+        "anchors",
+        "comment",
+        "custom-favicon",
+        "language-picker",
+        "html5-video",
+        "youtube"
+    ],
+    "pluginsConfig": {
+        "favicon": "images/favicon.ico"
+    }
+}
+
