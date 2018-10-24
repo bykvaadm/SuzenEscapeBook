@@ -28,3 +28,4 @@
 * [Лабораторные](labs/README.md)
     * [Примитивы](labs/primitives-task.md)
         * [Решение1](labs/primitives-solve-1.md)
+* [Авторы и Благодарности](contributors.md)
