@@ -12,7 +12,9 @@
         "anchors",
         "comment",
         "custom-favicon",
-        "language-picker"
+        "language-picker",
+        "html5-video",
+        "youtube"
     ],
     "pluginsConfig": {
         "favicon": "images/favicon.ico"

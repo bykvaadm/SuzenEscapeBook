@@ -1,6 +1,7 @@
 # Оглавление
 
-* [Введение](README.md)
+* [README](README.md)
+* [С чего начать](introduction.md)
 * [Лекции](lections/README.md)
     * [Введение](lections/l1.md)
     * [Файловые системы](lections/l2.md)
